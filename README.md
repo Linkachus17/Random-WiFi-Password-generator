@@ -5,3 +5,6 @@ What's my goal? it's secret! no one knows!
 
 # Installation
 Just run it! no need to install, it's ready to use!
+
+# Report?
+Report to Linkachus17#4080
