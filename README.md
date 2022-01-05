@@ -1,10 +1,9 @@
-# Read this before use!
-The password that given by the program is guaranteed HARDER to hack not CAN'T be hack!
-This program will keep make an update until the goal is reached!
-What's my goal? it's secret! no one knows!
+# About
+It's basically just a password generator that you can use to secure your accounts or devices
 
-# Installation
-Just run it! no need to install, it's ready to use!
+# Revision
+I made a revision today (January 6 2022) because I need this program for my college exam and just for fun
 
-# Report?
-Report to Linkachus17#4080  <  My Discord
+# How to use
+You can either use the .exe file (Python3 must be installed probably, I haven't tested yet), or just use the source code directly
+If you have any idea about this program, feel free to modify it. I might learn something from it
