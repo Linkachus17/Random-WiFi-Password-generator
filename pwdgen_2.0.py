@@ -9,6 +9,7 @@ def menu_combination():
     print("2.Digits only")
     print("3.Letters (Uppercase, Lowercase and punctuation) and Digits")
     print("4.About...")
+    print("5.Exit")
 
 
 
@@ -28,10 +29,8 @@ def splash_screen():
     sleep(1)
     print("This program gives you strong password for your accounts\nBy using uppercase, lowercase, digits, punctuation, hexdigits and octdigits in "
         "the password")
-    sleep(2)
-    print("========================================================\n")
-    print("Use CTRL + C to terminate\n")
     sleep(1)
+    print("========================================================\n")
 
 splash_screen()
 
@@ -95,8 +94,11 @@ def main_code():
         sleep(2)
         main_code()
 
+    elif user_input == 5:
+        quit()
+
     else:
-        print("There is only 4 options :)\n")
+        print("There is only 5 options :)\n")
         sleep(1)
         main_code()
 
